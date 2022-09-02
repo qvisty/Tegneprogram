@@ -1,4 +1,5 @@
 ﻿using Tegneprogram;
 
 // Skriv dit program her.
-// God fornøjelse
+// God fornøjelse 
+// JQ
