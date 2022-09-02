@@ -2,4 +2,4 @@
 
 // Skriv dit program her.
 // God fornøjelse 
-// JQ
+// JQ2  
